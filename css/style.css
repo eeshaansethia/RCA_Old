@@ -6932,7 +6932,7 @@ a.nav1-link6:hover, a.nav1-link6:active{
   div.pills1{
     font-size: 18px;
   }
-
+}
 
 
 /*# sourceMappingURL=style.css.map */
@@ -6980,6 +6980,15 @@ a.nav1-link6:hover, a.nav1-link6:active{
   color: white;
   border-top-left-radius: 1rem;
   border-bottom-left-radius: 1rem;
+}
+.khamma-page-left h3{
+  font-size: 50px;
+  color: #fff;
+  font-weight: 900;
+  margin-bottom: 0;
+  font-family: "Poppins", sans-serif;
+  text-transform: capitalize;
+  
 }
 
 .khamma-page-right {
